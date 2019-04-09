@@ -3,7 +3,12 @@
     { "path": "", "name": "ECMAScript6" },
     {
       "path": "@/notes/ecmascript6/01.md",
-      "name": "变量和解构",
+      "name": "变量和扩展方法",
+      "date": ""
+    },
+    {
+      "path": "@/notes/ecmascript6/02.md",
+      "name": "据类型和结构",
       "date": ""
     },
     { "path": "", "name": "JavaScript" },
